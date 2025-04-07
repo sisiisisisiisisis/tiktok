@@ -1,0 +1,41 @@
+leaderboard_titles:
+  white: white
+  orange: orange
+  magenta: magenta
+  light_blue: light_blue
+  yellow: yellow
+  lime: lime
+  pink: pink
+  gray: gray
+  light_gray: light_gray
+  cyan: cyan
+  purple: purple
+  blue: blue
+  brown: brown
+  green: green
+  red: red
+  black: black
+  red_sand: red_sand
+  sand: sand
+  gray_gravel: gray_gravel
+leaderboard: false
+layers_order:
+- white
+- orange
+- magenta
+- light_blue
+- yellow
+- lime
+- pink
+- gray
+- light_gray
+- cyan
+- purple
+- blue
+- brown
+- green
+- red
+- black
+- red_sand
+- sand
+- gray_gravel

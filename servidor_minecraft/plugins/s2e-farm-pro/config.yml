@@ -1,0 +1,32 @@
+# create_farm params X Y Z R T
+# X Y Z - Coordinates of the central block of the field
+# R - size of field
+# T - win timer
+# empty value by default - will result in no farm created on server start,
+#   it need to be created manually at least once
+create_farm:
+mob_velocity: 1
+
+snowball_radius: 1
+
+dragon_velocity: 1
+dragon_spawn_offset: 10
+dragon_fire_time_delay: 5
+
+farmer_seed_counter: 21
+farmer_max_life_seconds: 120
+
+win_title_1: Winner winner!!!
+win_sub_title_1:
+win_title_2: Sheep for dinner!!!
+win_sub_title_2: Powered by streamtoearn.io
+
+wolf_max_kills: 5
+wolf_eats_white_sheeps: true
+wolf_eats_colored_sheeps: false
+wolf_eats_pigs: false
+wolf_eats_cows: false
+wolf_eats_witches: true
+wolf_eats_piglins: true
+
+tnt_fuse: 2
