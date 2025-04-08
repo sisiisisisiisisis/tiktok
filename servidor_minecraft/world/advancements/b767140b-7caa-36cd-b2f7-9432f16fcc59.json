@@ -8,9 +8,47 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-04-08 02:26:25 +0000",
-      "minecraft:forest": "2025-04-08 02:37:58 +0000"
+      "minecraft:river": "2025-04-08 05:51:26 +0000",
+      "minecraft:forest": "2025-04-08 02:37:58 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-08 05:52:17 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2025-04-08 05:58:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-08 06:21:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-04-08 06:43:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-08 06:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-08 06:44:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-08 06:21:38 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
