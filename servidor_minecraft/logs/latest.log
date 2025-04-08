@@ -70,3 +70,42 @@
 [03:45:30] [Server thread/INFO]: Done (21.914s)! For help, type "help"
 [03:45:30] [Server thread/INFO]: Timings Reset
 [03:45:33] [Thread-22/INFO]: [Geyser-Spigot] Minecraft JAR has been successfully downloaded and loaded!
+[05:40:37] [Server thread/INFO]: Stopping the server
+[05:40:37] [Server thread/INFO]: Stopping server
+[05:40:37] [Server thread/INFO]: [ServerTap] Disabling ServerTap v0.5.4-SNAPSHOT
+[05:40:37] [Server thread/INFO]: [ServerTap] Disabled Version 0.5.4-SNAPSHOT
+[05:40:37] [Server thread/INFO]: [io.javalin.Javalin] Stopping Javalin ...
+[05:40:37] [Server thread/INFO]: [org.eclipse.jetty.server.Server] Stopped Server@78ea5faf{STOPPING}[11.0.15,sto=0]
+[05:40:37] [Server thread/INFO]: [org.eclipse.jetty.server.AbstractConnector] Stopped ServerConnector@3478f158{HTTP/1.1, (http/1.1)}{0.0.0.0:4567}
+[05:40:37] [Server thread/INFO]: [org.eclipse.jetty.server.handler.ContextHandler] Stopped i.j.j.@5e7601a5{/,null,STOPPED}
+[05:40:37] [Server thread/INFO]: [io.javalin.Javalin] Javalin has stopped
+[05:40:37] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.7.0-SNAPSHOT
+[05:40:37] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[05:40:37] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[05:40:37] [Server thread/INFO]: [s2e-bedrock-box] Disabling s2e-bedrock-box v1.2.7
+[05:40:37] [Server thread/INFO]: [s2e-sand-box] Disabling s2e-sand-box v2.0.3
+[05:40:37] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[05:40:37] [Server thread/INFO]: Saving players
+[05:40:37] [Server thread/INFO]: Saving worlds
+[05:40:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:40:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[05:40:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[05:40:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[05:40:37] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 123 entity chunks, 0 poi chunks in world 'world' in 0.05s
+[05:40:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:40:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:40:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[05:40:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[05:40:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[05:40:37] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 22 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[05:40:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:40:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:40:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[05:40:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[05:40:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[05:40:37] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[05:40:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:40:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:40:37] [Server thread/INFO]: Flushing Chunk IO
+[05:40:37] [Server thread/INFO]: Closing Thread Pool
+[05:40:37] [Server thread/INFO]: Closing Server
