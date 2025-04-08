@@ -39,3 +39,8 @@ layers_order:
 - red_sand
 - sand
 - gray_gravel
+arena: world,8,77,-12
+radius: 6
+height: 9
+timer: 15
+tntfuse: 1.5
