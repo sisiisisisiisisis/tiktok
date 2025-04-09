@@ -1,0 +1,73 @@
+#Reemplaza automaticamente las capas del cubo.
+replaceBlock: true
+#Muestra la altura en el actionbar.
+actionBar: false
+minHeight: 125
+textHeight: "Height:"
+
+#Material que será cambiado automaticamente en cada capa del cubo.
+cube_layers:
+  1: "IRON_BLOCK"
+  2: "IRON_BLOCK"
+  3: "IRON_BLOCK"
+  4: "GOLD_BLOCK"
+  5: "GOLD_BLOCK"
+  6: "GOLD_BLOCK"
+  7: "EMERALD_BLOCK"
+  8: "EMERALD_BLOCK"
+  9: "EMERALD_BLOCK"
+  10: "DIAMOND_BLOCK"
+  11: "DIAMOND_BLOCK"
+  12: "DIAMOND_BLOCK"
+
+#Configura el título de cada número del temporizador.
+timer:
+  1: "1"
+  2: "2"
+  3: "3"
+  4: "4"
+  5: "5"
+  6: "6"
+  7: "7"
+  8: "8"
+  9: "9"
+  10: "10"
+
+#Configura el color de cada número del temporizador.
+timer_color:
+  1: "red"
+  2: "red"
+  3: "red"
+  4: "blue"
+  5: "blue"
+  6: "blue"
+  7: "blue"
+  8: "blue"
+  9: "blue"
+  10: "blue"
+
+#Configura el sonido de cada número del temporizador.
+timer_sound:
+  1: "ENTITY_PLAYER_LEVELUP"
+  2: "ENTITY_PLAYER_LEVELUP"
+  3: "ENTITY_PLAYER_LEVELUP"
+  4: "ENTITY_PLAYER_LEVELUP"
+  5: "ENTITY_PLAYER_LEVELUP"
+  6: "ENTITY_PLAYER_LEVELUP"
+  7: "ENTITY_PLAYER_LEVELUP"
+  8: "ENTITY_PLAYER_LEVELUP"
+  9: "ENTITY_PLAYER_LEVELUP"
+  10: "ENTITY_PLAYER_LEVELUP"
+
+#Texto que se mostrara al finalizar el contador.
+winMessage: "Ganaste!"
+winColor:  "gold"
+winSound: "UI_TOAST_CHALLENGE_COMPLETE"
+
+#Texto que se mostrara cuando se detenga el contador.
+stopMessage: "stop"
+stopColor: "red"
+stopSound: "ENTITY_VILLAGER_NO"
+
+#Habilita la tnt custom para los comandos /cubo tnt y /cubo tntplayer
+tntCustom: true
